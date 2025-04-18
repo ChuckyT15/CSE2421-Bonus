@@ -3,7 +3,7 @@
 int main() {
     // Initialize variables
     int array[50]; 
-    int i = 0 
+    int i = 0;
     int size = 0;
     int sum = 0;
 
